@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Atalandi André
+N:;Atalandi André;;;
+TITLE:Head of Quality & Environment
+TEL;TYPE=CELL:+351911064810
+EMAIL;TYPE=INTERNET:atalandi.andre@vipex.pt
+URL:https://vipex25.github.io/atalandi-andre/
+item1.URL;type=pref:https://pt.linkedin.com/company/vipex-plastics
+item1.X-ABLabel:LinkedIn
+item2.URL;type=pref:https://www.vipex.pt/
+item2.X-ABLabel:Website
+item3.URL;type=pref:https://maps.app.goo.gl/QeAVZR8oF2E2f2Xu5
+item3.X-ABLabel:Location
+END:VCARD
